@@ -9,3 +9,6 @@ open up vim
 ## Basic Keys
 `<space><space>` to access a searchable menu of available commands.
 
+## Important
+Don't forget to try out `:Tutor`, it provides some solid headstart to using vim.
+
